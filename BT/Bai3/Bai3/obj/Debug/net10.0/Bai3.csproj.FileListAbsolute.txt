@@ -1,0 +1,29 @@
+D:\N3K1\LTTQ\BT\Bai3\Bai3\bin\Debug\net10.0\Bai3.exe
+D:\N3K1\LTTQ\BT\Bai3\Bai3\bin\Debug\net10.0\Bai3.deps.json
+D:\N3K1\LTTQ\BT\Bai3\Bai3\bin\Debug\net10.0\Bai3.runtimeconfig.json
+D:\N3K1\LTTQ\BT\Bai3\Bai3\bin\Debug\net10.0\Bai3.dll
+D:\N3K1\LTTQ\BT\Bai3\Bai3\bin\Debug\net10.0\Bai3.pdb
+D:\N3K1\LTTQ\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\N3K1\LTTQ\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.AssemblyInfoInputs.cache
+D:\N3K1\LTTQ\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.AssemblyInfo.cs
+D:\N3K1\LTTQ\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.csproj.CoreCompileInputs.cache
+D:\N3K1\LTTQ\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.dll
+D:\N3K1\LTTQ\BT\Bai3\Bai3\obj\Debug\net10.0\refint\Bai3.dll
+D:\N3K1\LTTQ\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.pdb
+D:\N3K1\LTTQ\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.genruntimeconfig.cache
+D:\N3K1\LTTQ\BT\Bai3\Bai3\obj\Debug\net10.0\ref\Bai3.dll
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\bin\Debug\net10.0\Bai3.exe
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\bin\Debug\net10.0\Bai3.deps.json
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\bin\Debug\net10.0\Bai3.runtimeconfig.json
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\bin\Debug\net10.0\Bai3.dll
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\bin\Debug\net10.0\Bai3.pdb
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.AssemblyInfoInputs.cache
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.AssemblyInfo.cs
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.csproj.CoreCompileInputs.cache
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.sourcelink.json
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.dll
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\obj\Debug\net10.0\refint\Bai3.dll
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.pdb
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\obj\Debug\net10.0\Bai3.genruntimeconfig.cache
+D:\Lập trình trực quan\Bài tập\BTLTB2\BT\Bai3\Bai3\obj\Debug\net10.0\ref\Bai3.dll
